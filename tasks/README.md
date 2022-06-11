@@ -1,0 +1,1 @@
+Решения практики с [документа](https://docs.google.com/document/d/1SOQlYfpbxsu6ve5B4fUk41kq217qul_O/edit) о подготовке к экзамену. Название каждой директории - номер задания.
